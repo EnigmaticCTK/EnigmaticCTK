@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EnigmaticCTK
+- 👋 Hi, I’m Clive Taruvinga
 - 👀 I’m interested in ...Chess,Gaming and Programming
 - 🌱 I’m currently learning ...Python
 - 💞️ I’m looking to collaborate on ...game development and website design
